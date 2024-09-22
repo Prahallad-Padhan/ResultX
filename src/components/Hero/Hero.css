@@ -1,0 +1,38 @@
+.hero {
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  }
+  
+  .content {
+    width: 50vw; 
+    text-align: left;
+    color: #F4FAF8;
+  }
+  
+  .image-container {
+    width: 50vw;
+    height: 90vh;
+    display: flex;
+    justify-content: flex-end; 
+    padding-right: 5vw; 
+  }
+  
+  .hero-image {
+    max-width: 100%; 
+    height: auto;
+  }
+  
+  .content h1 {
+    font-size: 4rem;
+    margin: 0.5vh 0.65vw; 
+    background-image: linear-gradient(to right, #15F4EE, #FFFFFF); 
+    -webkit-background-clip: text; 
+    color: transparent;
+  }
+  
+  .content p {
+    font-size: 1.125rem; 
+    margin: 0.8vh 0.65vw; 
+  }
