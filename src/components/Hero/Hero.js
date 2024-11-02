@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero" id="hero">
       <div className="content">
         <h1>Welcome to</h1>
-        <h1>ResultX SRM</h1>
+        <h1>ResultX</h1>
         <br />
         <p>Your all-in-one platform for managing academic performance.</p>
         <p>From tracking grades to analyzing trends and calculating GPA,</p>
