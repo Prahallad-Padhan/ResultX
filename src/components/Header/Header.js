@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <section className="header" id="header">
       <div className="app" id="app">
-        <h1>ResultX SRM</h1>
+        <h1>ResultX</h1>
       </div>
       <div className="nav-bar" id="nav-bar">
         <ul className="nav-links">
